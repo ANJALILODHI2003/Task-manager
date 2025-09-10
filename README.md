@@ -44,11 +44,6 @@ A fully responsive **Task Manager Application** built with the **MERN (MongoDB, 
 ![Create Task](./Screenshot%202025-09-10%20161009.png)
 
 
-
-![Checklist Example](./Screenshot%202025-09-10%20161016.png)
-
-
-
 ![Team Members](./Screenshot%202025-09-10%20161048.png)
 
 
